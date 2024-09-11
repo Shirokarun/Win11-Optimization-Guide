@@ -9,4 +9,10 @@ Before you start the optimization process make sure to create a restore point:
   
 _(This process makes you create a restore point which can bring you back in case something goes wrong with the optimizations)_
 
+# CTT Utility
+- Open Windows Search Bar
+- Search "Windows PowerShell"
+- Open it as Administrator
+- Copy and Paste this string ```ps1 irm "https://christitus.com/win" | iex```
+
 ## _THE OPTIMIZATIONS USED IN THIS GUIDE ARE NOT CREATED BY ME, EVERYTHING USED IS A MIX OF THE MOST USED OPTIMIZATIONS AVAILABLE ON THE INTERNET_
