@@ -15,6 +15,7 @@ _(This process makes you create a restore point which can bring you back in case
 - Open it as Administrator
 - Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
 - Apply the following optimizations:
+
 ![Screenshot 2024-09-11 025843](https://github.com/user-attachments/assets/4a777177-e8b9-44d7-ba82-b72d4f631e2f)
 
 ## _THE OPTIMIZATIONS USED IN THIS GUIDE ARE NOT CREATED BY ME, EVERYTHING USED IS A MIX OF THE MOST USED OPTIMIZATIONS AVAILABLE ON THE INTERNET_
