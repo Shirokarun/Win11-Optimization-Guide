@@ -13,8 +13,6 @@ _(This process makes you create a restore point which can bring you back in case
 - Open Windows Search Bar
 - Search "Windows PowerShell"
 - Open it as Administrator
-- Copy and Paste this string ```ps1
-irm "https://christitus.com/win" | iex
-```
+- Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
 
 ## _THE OPTIMIZATIONS USED IN THIS GUIDE ARE NOT CREATED BY ME, EVERYTHING USED IS A MIX OF THE MOST USED OPTIMIZATIONS AVAILABLE ON THE INTERNET_
