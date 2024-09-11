@@ -17,6 +17,13 @@ _(This process makes you create a restore point which can bring you back in case
 
 ![Screenshot 2024-09-11 025843](https://github.com/user-attachments/assets/4a777177-e8b9-44d7-ba82-b72d4f631e2f)
 
+- Click on "Run Tweaks"
+- Click on "Run OO Shutup 10"
+- Go to Actions
+- Select "Apply only recommended setting"
+- Go back to CTT Utility and click on "Updates"
+- Select "Security (Recommended) Setting"
+
 - Windows Power Plan:
 
 ![Screenshot 2024-09-11 031738](https://github.com/user-attachments/assets/4a8a735c-f7db-4baf-9481-874c66c46524)
