@@ -46,6 +46,8 @@ After you enabled this settings
 
 ![Screenshot 2024-09-11 034344](https://github.com/user-attachments/assets/1f28bcaf-d405-4e57-8fb7-77bedbf38b72)
 
+## After the optimizations, make sure to restart the system!
+
 ## App Suggestion
 - [7-Zip ](https://www.7-zip.org/a/7z2408-x64.exe)
 - [KeePassXC ](https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-Win64.msi)
