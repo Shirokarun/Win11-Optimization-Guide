@@ -14,5 +14,7 @@ _(This process makes you create a restore point which can bring you back in case
 - Search "Windows PowerShell"
 - Open it as Administrator
 - Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
+- Apply the following optimizations:
+  !https://ibb.co/nCsyb18
 
 ## _THE OPTIMIZATIONS USED IN THIS GUIDE ARE NOT CREATED BY ME, EVERYTHING USED IS A MIX OF THE MOST USED OPTIMIZATIONS AVAILABLE ON THE INTERNET_
