@@ -11,8 +11,7 @@ _(This process makes you create a restore point which can bring you back in case
 
 ## CTT Utility
 - Open Windows Search Bar
-- Search "Windows PowerShell"
-- Open it as Administrator
+- Search "Windows PowerShell" and open it as Administrator
 - Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
 - Apply the following optimizations:
 
@@ -24,3 +23,18 @@ _(This process makes you create a restore point which can bring you back in case
 
 ## Disable Rounded Corners
 In order to give Win11 the better old Win10 windows, I suggest to install this file. It simply removes Win11 rounded corners. [Download](https://github.com/valinet/Win11DisableRoundedCorners/releases/download/1.0.0.3/Win11DisableOrRestoreRoundedCorners.exe)
+
+## Windows Personalization
+- Open Windows Search Bar
+- Search "Settings"
+- Go to "Personalization"
+- Click on "Show accent color on title bars and window borders
+After you enabled this settings
+- Open Windows Search Bar
+- Search "Registry Editor" and run it as Administrator
+- Go to ```HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Accent ```
+- Click on StartColorMenu and set the value to 0
+- Click on AccentColorMenu and set the value to 0
+- Click on AccentPalette, delete everything and set 4 lines of 0s. Make sure to have the cursor on the empty line
+![Screenshot 2024-09-11 034344](https://github.com/user-attachments/assets/1f28bcaf-d405-4e57-8fb7-77bedbf38b72)
+
