@@ -36,5 +36,6 @@ After you enabled this settings
 - Click on StartColorMenu and set the value to 0
 - Click on AccentColorMenu and set the value to 0
 - Click on AccentPalette, delete everything and set 4 lines of 0s. Make sure to have the cursor on the empty line
+
 ![Screenshot 2024-09-11 034344](https://github.com/user-attachments/assets/1f28bcaf-d405-4e57-8fb7-77bedbf38b72)
 
