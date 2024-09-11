@@ -40,7 +40,7 @@ After you enabled this settings
 ![Screenshot 2024-09-11 034344](https://github.com/user-attachments/assets/1f28bcaf-d405-4e57-8fb7-77bedbf38b72)
 
 ## App Suggestion
-|     7-Zip      | [Download](https://www.7-zip.org/a/7z2408-x64.exe)                                                          |
-| KeePassXC      | [Download](https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-Win64.msi)   |
-|  Waterfox      | [Download](https://cdn1.waterfox.net/waterfox/releases/G6.0.19/WINNT_x86_64/Waterfox%20Setup%20G6.0.19.exe) |
-| Revo Unistaller| [Download](https://www.revouninstaller.com/start-freeware-download/)                                        |
+|     7-Zip       | [Download](https://www.7-zip.org/a/7z2408-x64.exe)                                                          |
+| KeePassXC       | [Download](https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-Win64.msi)   |
+|  Waterfox       | [Download](https://cdn1.waterfox.net/waterfox/releases/G6.0.19/WINNT_x86_64/Waterfox%20Setup%20G6.0.19.exe) |
+| Revo Unistaller | [Download](https://www.revouninstaller.com/start-freeware-download/)                                        |
