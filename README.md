@@ -1,4 +1,4 @@
-# Laptop-Optimization-Guide
+# Laptop-Win11-Optimization-Guide
 A detailed guide which will show you how to perfectly setup your laptop. All the optimizations are used in order to gain the max performance. There will be also a few app suggestion which can help you choose the best softwares for your pc.
 
 # RESTORE POINT
