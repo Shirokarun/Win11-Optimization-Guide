@@ -24,7 +24,7 @@ _(This process makes you create a restore point which can bring you back in case
 ## Disable Rounded Corners
 In order to give Win11 the better old Win10 windows, I suggest to install this file. It simply removes Win11 rounded corners. [Download](https://github.com/valinet/Win11DisableRoundedCorners/releases/download/1.0.0.3/Win11DisableOrRestoreRoundedCorners.exe)
 
-## Windows Personalization
+## Windows Personalization (Optional)
 - Open Windows Search Bar
 - Search "Settings"
 - Go to "Personalization"
