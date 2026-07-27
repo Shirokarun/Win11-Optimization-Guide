@@ -62,5 +62,5 @@ A detailed guide which will show you how to perfectly setup your machine. All th
 ## App Suggestion
 - [7-Zip ](https://www.7-zip.org/a/7z2408-x64.exe)
 - [KeePassXC ](https://github.com/keepassxreboot/keepassxc/releases/download/2.7.9/KeePassXC-2.7.9-Win64.msi)
-- [Waterfox](https://cdn1.waterfox.net/waterfox/releases/G6.0.19/WINNT_x86_64/Waterfox%20Setup%20G6.0.19.exe)
+- [Firefox](https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US)
 - [Revo Unistaller](https://www.revouninstaller.com/start-freeware-download/)
