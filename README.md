@@ -54,7 +54,7 @@ A detailed guide which will show you how to perfectly setup your machine. All th
 
 ## Startup Apps
 - Open Windows Search Bar
-- Searh "Startup Apps" and openn it
+- Searh "Startup Apps" and open it
 - Disable all the apps that aren't needed
 
 ## After the optimizations, make sure to restart the system!
