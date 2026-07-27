@@ -26,7 +26,7 @@ A detailed guide which will show you how to perfectly setup your machine. All th
   
 ![Screenshot 2024-09-11 031738](https://github.com/user-attachments/assets/4a8a735c-f7db-4baf-9481-874c66c46524)
 
-## SERVICES
+## Services
 - Open Windows Search Bar
 - Search "Services" and open it
 - Disable the following services:
@@ -46,8 +46,13 @@ A detailed guide which will show you how to perfectly setup your machine. All th
   - Xbox Live Auth Manager
   - Xbox Live Game Save
   - Xbox Live Networking Service
+    
+## Microsoft Store Removal
+- Open Windows Search Bar
+- Search "Windows PowerShell" and open it as Administrator
+- Copy and Paste this string ```Get-AppxPackage -allusers *WindowsStore* | Remove-AppxPackage```
 
-## STARTUP APPS
+## Startup Apps
 - Open Windows Search Bar
 - Searh "Startup Apps" and openn it
 - Disable all the apps that aren't needed
