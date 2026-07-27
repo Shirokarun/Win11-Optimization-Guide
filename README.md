@@ -1,13 +1,5 @@
-# Win11 Optimization Guide
-A detailed guide which will show you how to perfectly setup your laptop. All the optimizations are used in order to gain the max performance. There will be also a few app suggestion which can help you choose the best softwares for your pc.
-
-## Restore Point 
-Before you start the optimization process make sure to create a restore point:
-- Open Windows Search Bar
-- Search "Create a restore point"
-- Click on "Create"
-  
-_(This process makes you create a restore point which can bring you back in case something goes wrong with the optimizations)_
+# Windows11 25h2 Optimization Guide
+A detailed guide which will show you how to perfectly setup your machine. All the optimizations are used in order to gain max performance still having all security features which will keep safe. There will be also a few app suggestion section which can help you choose the best softwares for your pc.
 
 ## CTT Utility
 - Open Windows Search Bar
@@ -15,36 +7,19 @@ _(This process makes you create a restore point which can bring you back in case
 - Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
 - Apply the following optimizations:
 
-![Screenshot 2024-09-11 025843](https://github.com/user-attachments/assets/4a777177-e8b9-44d7-ba82-b72d4f631e2f)
+![<img width="2050" height="1166" alt="cttFULL" src="https://github.com/user-attachments/assets/f02555c9-6c9c-4a1e-8fd2-3aee06f6f42b" />
 
-- Click on "Run Tweaks"
+- Click on "Run Tweaks" (It will automatically create a Restore Point)
 - Click on "Run OO Shutup 10"
 - Go to Actions
 - Select "Apply only recommended setting"
 - Go back to CTT Utility and click on "Updates"
-- Select "Security (Recommended) Setting"
+- Select "Disable Updates"
 
 - Windows Power Plan:
 
 ![Screenshot 2024-09-11 031738](https://github.com/user-attachments/assets/4a8a735c-f7db-4baf-9481-874c66c46524)
 
-## Disable Rounded Corners
-In order to give Win11 the better old Win10 borders, I suggest to install this file. It simply removes Win11 rounded corners. [Download](https://github.com/valinet/Win11DisableRoundedCorners/releases/download/1.0.0.3/Win11DisableOrRestoreRoundedCorners.exe)
-
-## Windows Personalization (Optional)
-- Open Windows Search Bar
-- Search "Settings"
-- Go to "Personalization"
-- Click on "Show accent color on title bars and window borders
-After you enabled this settings
-- Open Windows Search Bar
-- Search "Registry Editor" and run it as Administrator
-- Go to ```HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Accent ```
-- Click on StartColorMenu and set the value to 0
-- Click on AccentColorMenu and set the value to 0
-- Click on AccentPalette, delete everything and set 4 lines of 0s. Make sure to have the cursor on the empty line
-
-![Screenshot 2024-09-11 034344](https://github.com/user-attachments/assets/1f28bcaf-d405-4e57-8fb7-77bedbf38b72)
 
 ## After the optimizations, make sure to restart the system!
 
