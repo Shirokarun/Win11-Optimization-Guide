@@ -7,7 +7,7 @@ A detailed guide which will show you how to perfectly setup your machine. All th
 - Copy and Paste this string ```irm "https://christitus.com/win" | iex ```
 - Apply the following optimizations:
 
-![<img width="2050" height="1166" alt="cttFULL" src="https://github.com/user-attachments/assets/f02555c9-6c9c-4a1e-8fd2-3aee06f6f42b" />
+<img width="1472" height="821" alt="cttFULL" src="https://github.com/user-attachments/assets/c51c3901-2a8f-4c9f-a93c-8c6da26e04b3" />
 
 - Click on "Run Tweaks" (It will automatically create a Restore Point)
 - Click on "Run OO Shutup 10"
