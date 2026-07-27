@@ -21,28 +21,31 @@ A detailed guide which will show you how to perfectly setup your machine. All th
 - Go to "Updates" section
 - Click on "Disable Updates"
 
+
 - Windows Power Plan:
+  
 ![Screenshot 2024-09-11 031738](https://github.com/user-attachments/assets/4a8a735c-f7db-4baf-9481-874c66c46524)
 
 ## SERVICES
 - Open Windows Search Bar
 - Search "Services" and open it
 - Disable the following services:
-1 - Bluethooth Audio Gatesway Service
-2 - Bluethooth Support Service
-3 - Cellular Time
-4 - Print Device Configuration
-5 - Print Spooler
-6 - Printer Extensions and Notifications
-7 - PrintScanBrokerService
-8 - Phone Service
-9 - Windows Mobile Hotspot Service 
-10 - Windows Push Notifications System Service
-11 - Windows Search
-12 - Xbox Accessory Management Service
-13 - Xbox Live Auth Manager
-14 - Xbox Live Game Save
-15 - Xbox Live Networking Service
+  
+  - Bluethooth Audio Gatesway Service
+  - Bluethooth Support Service
+  - Cellular Time
+  - Print Device Configuration
+  - Print Spooler
+  - Printer Extensions and Notifications
+  - PrintScanBrokerService
+  - Phone Service
+  - Windows Mobile Hotspot Service 
+  - Windows Push Notifications System Service
+  - Windows Search
+  - Xbox Accessory Management Service
+  - Xbox Live Auth Manager
+  - Xbox Live Game Save
+  - Xbox Live Networking Service
 
 ## STARTUP APPS
 - Open Windows Search Bar
